@@ -6,7 +6,7 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 ## Heading 2
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,cpp,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,cpp,bootstrap)](https://skillicons.dev&perline=8)
 
 <!--
 **DauntaeS/DauntaeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
