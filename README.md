@@ -1,10 +1,12 @@
-## 👨🏽‍💻 Dauntae Stewart
+# 👨🏽‍💻 Dauntae Stewart
 
 **`Tech Lover (Developer/Creator)`**
 
 I invite you to embark on a journey through my evolution as a software engineer. My portfolio is a reflection of my significant milestones and my vision for future growth as a developer. Explore my experiences, projects, and aspirations as I strive to contribute and innovate in the ever-evolving world of technology.
 
-# Heading 2
+## Heading 2
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,cpp,bootstrap)](https://skillicons.dev)
 
 <!--
 **DauntaeS/DauntaeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
