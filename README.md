@@ -1,17 +1,14 @@
-# 👨🏽‍💻 Dauntae Stewart
+# Dauntae Stewart 👨🏽‍💻 👋🏽
 
 **`Tech Lover (Developer/Creator)`**
 
 I invite you to embark on a journey through my evolution as a software engineer. My portfolio is a reflection of my significant milestones and my vision for future growth as a developer. Explore my experiences, projects, and aspirations as I strive to contribute and innovate in the ever-evolving world of technology.
 
-## Heading 2
-
-<!--
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap)](https://skillicons.dev) -->
+## 🧰 Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,js,cpp,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap" />
   </a>
 </p>
 <!--
