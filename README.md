@@ -4,6 +4,8 @@
 
 I invite you to embark on a journey through my evolution as a software engineer. My portfolio is a reflection of my significant milestones and my vision for future growth as a developer. Explore my experiences, projects, and aspirations as I strive to contribute and innovate in the ever-evolving world of technology.
 
+# Heading 2
+
 <!--
 **DauntaeS/DauntaeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
