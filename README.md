@@ -6,8 +6,14 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 ## Heading 2
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap)](https://skillicons.dev)
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap)](https://skillicons.dev) -->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,py,js,fastapi,react,redux,postgres,nodejs,mongodb,github,docker,django,bootstrap" />
+  </a>
+</p>
 <!--
 **DauntaeS/DauntaeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +27,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
