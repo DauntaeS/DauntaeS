@@ -14,12 +14,11 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 ## 🏗️ Projects
 
-<section>
-<a href="#"><img width="30%" padding-right="20px" src="/assets/stupifyHome.png"/></a>
-<a href="#"><img width="30%" height="30%" src="/assets/stupifySearch.png"/></a>
-<a href="#"><img width="30%" src="/assets/carDealer.png"/></a>
-
-</section>
+<div style="display: flex; justify-content: space-evenly; align-items: center;">
+  <a href="#"><img width="30%" src="/assets/stupifyHome.png" /></a>
+  <a href="#"><img width="30%" src="/assets/stupifySearch.png" /></a>
+  <a href="#"><img width="30%" src="/assets/carDealer.png" /></a>
+</div>
 
 #
 
