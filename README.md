@@ -15,9 +15,9 @@ I invite you to embark on a journey through my evolution as a software engineer.
 ## 🏗️ Projects
 
 <div>
- <a href="#"><img width="30%"  src="/assets/stupifyHome.png" /></a>
-  <a href="#"><img width="30%" src="/assets/stupifySearch.png" /></a>
-  <a href="#"><img width="30%" src="/assets/carDealer.png" /></a>
+ <a href="https://github.com/DauntaeS/Stupify"><img width="30%"  src="/assets/stupifyHome.png" /></a>
+  <a href="https://github.com/DauntaeS/Stupify"><img width="30%" src="/assets/stupifySearch.png" /></a>
+  <a href="https://github.com/DauntaeS/auto-dealer"><img width="30%" src="/assets/carDealer.png" /></a>
 </div>
 
 #
