@@ -16,12 +16,8 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 <section>
 <a href="#"><img width="30%" height="30%" src="/assets/stupifyHome.png"/></a>
-<a href="#">
-  <video width="30%" height="30%" controls>
-    <source src="/assets/stupifyVid.mp4" type="video/mp4">
-    Your browser does not support the video tag..
-  </video>
-</a>
+<a href="#"><img width="30%" height="30%" src="/assets/carDealer.png"/></a>
+<a href="#"><img width="30%" height="30%" src="/assets/calculator.png"/></a>
 </section>
 
 #
