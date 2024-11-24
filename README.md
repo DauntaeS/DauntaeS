@@ -18,7 +18,7 @@ I invite you to embark on a journey through my evolution as a software engineer.
 <a href="#"><img width="30%" height="30%" src="/assets/stupifyHome.png"/></a>
 <a href="#">
   <video width="30%" height="30%" controls>
-    <source src="/assets/stupifyVid.mov" type="video/quicktime">
+    <source src="/assets/stupifyVid.mp4" type="video/quicktime">
     Your browser does not support the video tag.
   </video>
 </a>
