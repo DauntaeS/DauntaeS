@@ -14,21 +14,21 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 ## 🏗️ Projects
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <a href="#"><img width="30%" src="/assets/stupifyHome.png" /></a>
+<div>
+ <a href="#"><img width="30%"  src="/assets/stupifyHome.png" /></a>
   <a href="#"><img width="30%" src="/assets/stupifySearch.png" /></a>
   <a href="#"><img width="30%" src="/assets/carDealer.png" /></a>
 </div>
 
 #
 
-  <summary><h3>My Coding Journey</h3></summary>
-  <p>
+<summary><h3>My Coding Journey</h3></summary>
+<p>
   My journey began as a hobby, which quickly turned into a passion for coding. I started by teaching myself HTML, CSS, and JavaScript daily. After a year of self-teaching, I decided to formalize my education by enrolling in Hack Reactor's 19-week advanced software engineering bootcamp. This intensive program reinforced my skills and provided me with the opportunity to work on real-world projects alongside other skilled developers.
 
 As a Software Engineer, my ultimate goal is to create software that not only meets but exceeds user expectations. I measure success by the positive impact my work has on end-users and clients. By diligently understanding user needs and incorporating feedback, I consistently deliver solutions that delight and enhance the overall user experience.
 
-  </p>
+</p>
 <!--
 **DauntaeS/DauntaeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
