@@ -14,6 +14,8 @@ I invite you to embark on a journey through my evolution as a software engineer.
 
 ## 🏗️ Projects
 
+<a href="#"><img src="/assets/stupifyHome.png"/></a>
+
 #
 
   <summary><h3>My Coding Journey</h3></summary>
